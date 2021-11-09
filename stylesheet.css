@@ -155,15 +155,15 @@ margin-bottom: 20px;}
         }
 
        
-
-            ul li a{
-                line-height: 44px;
-                width:120px;
-                text-align: center;
-                }
+        .nav-mobile li a{
+            padding:12px;
+            line-height: 44px;
+         
+            text-align: center;
+            }
+           
                 
-
-        
+            
         
 
         .samples_pics{
