@@ -32,7 +32,7 @@
         z-index: 1;
       }
 
-    #currentpage{text-decoration: underline;
+    .currentpage{text-decoration: underline;
     font-weight: bold;}
     
 nav{background-color: #FFC4ED;
@@ -94,7 +94,7 @@ place-items: center;
 }
 
 .sample_images h2{margin-bottom: 20px;}
-#flavorlink{text-decoration: underline;
+.flavorlink{text-decoration: underline;
 color: blue;}
 
 .samples_pics{
