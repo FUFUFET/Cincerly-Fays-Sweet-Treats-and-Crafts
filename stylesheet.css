@@ -4,6 +4,8 @@
     body{font-family: Verdana, Geneva, Tahoma, sans-serif;
     line-height: 1.8em;}
 
+    .logo{font-family: Gabriela;}
+
     #skipnav a{
         position: absolute;
         clip: rect(0 0 0 0);
@@ -176,7 +178,7 @@ margin-bottom: 20px;}
     }
 
         @media  (max-width: 600px) {
-             .logo{max-width:75%;}
+             .logo{max-width:80%;}
                 .nav-wrap1{width: 95%;}
         
 .w95{margin:0px 25px}
