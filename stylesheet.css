@@ -44,7 +44,9 @@ place-items: center;}
     display:flex;
 align-items: center;
 justify-content: space-between;
-width: 90%;}
+width: 90%;
+margin-top: 10px;
+margin-bottom: 10px;}
 .nav-wrap2{display: flex;}
     nav ul{display:flex;
         list-style-type: none;
