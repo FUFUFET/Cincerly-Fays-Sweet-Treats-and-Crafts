@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="488.88" height="60" viewBox="0 0 488.88 60">
-  <g id="Group_97" data-name="Group 97" transform="translate(-1902 -9019)">
-    <path id="Path_1" data-name="Path 1" d="M0,0H488.88V60H0Z" transform="translate(1902 9019)" fill="#ffc4ed"/>
-    <g id="Group_96" data-name="Group 96" transform="translate(2 -9)">
-      <text id="Cincerly_Fays_Sweet_Treats_and_Crafts" data-name="Cincerly Fays Sweet Treats and Crafts" transform="translate(1947 9065)" font-size="35" font-family="Gabriola"><tspan x="0" y="0">Cincerly Fays Sweet Treats and Crafts</tspan></text>
-      <g id="_299063_heart_icon" data-name="299063_heart_icon" transform="translate(2343.983 8006.625)">
-        <path id="Path_5" data-name="Path 5" d="M12.968,1031.425a11.632,11.632,0,0,0-8.489,3.4,12.139,12.139,0,0,0,0,16.979l18.477,19.575L41.433,1051.8a12.006,12.006,0,0,0-16.979-16.979l-1.5,1.6-1.5-1.6A11.633,11.633,0,0,0,12.968,1031.425Z" transform="translate(0 0)" fill="red"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="666" height="60" viewBox="0 0 666 60">
+  <g id="Group_97" data-name="Group 97" transform="translate(-1901 -9019)">
+    <path id="Path_1" data-name="Path 1" d="M0,0H664V60H0Z" transform="translate(1902 9019)" fill="#ffc4ed"/>
+    <g id="Group_96" data-name="Group 96" transform="translate(2 -3)">
+      <text id="Cincerly_Fays_Sweet_Treats_and_Crafts" data-name="Cincerly Fays Sweet Treats and Crafts" transform="translate(1947 9067)" font-size="35" font-family="SegoeUISymbol, Segoe UI Symbol"><tspan x="0" y="0">Cincerly Fays Sweet Treats and Crafts</tspan></text>
+      <g id="_299063_heart_icon" data-name="299063_heart_icon" transform="translate(2519.105 8001.625)">
+        <path id="Path_5" data-name="Path 5" d="M12.968,1031.425a11.632,11.632,0,0,0-8.489,3.4,12.139,12.139,0,0,0,0,16.979l18.477,19.575L41.433,1051.8a12.006,12.006,0,0,0-16.979-16.979l-1.5,1.6-1.5-1.6A11.633,11.633,0,0,0,12.968,1031.425Z" transform="translate(0 0)" fill="red" stroke="#000" stroke-width="2"/>
       </g>
-      <g id="_299063_heart_icon-2" data-name="299063_heart_icon" transform="translate(1898.983 8006.625)">
-        <path id="Path_5-2" data-name="Path 5" d="M12.968,1031.425a11.632,11.632,0,0,0-8.489,3.4,12.139,12.139,0,0,0,0,16.979l18.477,19.575L41.433,1051.8a12.006,12.006,0,0,0-16.979-16.979l-1.5,1.6-1.5-1.6A11.633,11.633,0,0,0,12.968,1031.425Z" transform="translate(0 0)" fill="red"/>
+      <g id="_299063_heart_icon-2" data-name="299063_heart_icon" transform="translate(1898.983 8001.625)">
+        <path id="Path_5-2" data-name="Path 5" d="M12.968,1031.425a11.632,11.632,0,0,0-8.489,3.4,12.139,12.139,0,0,0,0,16.979l18.477,19.575L41.433,1051.8a12.006,12.006,0,0,0-16.979-16.979l-1.5,1.6-1.5-1.6A11.633,11.633,0,0,0,12.968,1031.425Z" transform="translate(0 0)" fill="red" stroke="#000" stroke-width="2"/>
       </g>
     </g>
   </g>
