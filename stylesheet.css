@@ -54,7 +54,7 @@ margin-bottom: 10px;}
 border: 1px solid black;
 border-radius: 50px;
 align-items: center;}
-    nav ul li{margin: 0px 10px;
+    nav ul li{margin: 0px 20px;
     }
     a{text-decoration: none;
     color: #000;}
@@ -193,8 +193,7 @@ footer p{font-size: 0.8rem;}
 
         @media  (max-width: 350px){
             .picA{width: 250px;}
-            .picA{width: 250px;}
-            .picA{width: 250px;}
+            
             footer p{width: 280px;
             line-height: 1.5em;
         max-width: 95%;}
