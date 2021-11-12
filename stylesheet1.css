@@ -91,7 +91,7 @@ h2{line-height:1.8em;
     place-items: center;}
 
     .flavor{margin-bottom: 20px;}
-    .sample_images{background-color: #87E6FF;
+    .sample_images{background-color: #FFFB8A;
     width: 100%;
 display: grid;
 place-items: center;
@@ -155,7 +155,7 @@ margin-bottom: 20px;}  */
                
             width: 100%;
             border-radius:0;
-            background-color: #B4FFB4;
+            background-color: #FFC4ED;
             border: none;
             flex-direction: column;
             
