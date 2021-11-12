@@ -100,7 +100,8 @@ h1{line-height: 1.8em;
  margin: auto;
     }
 h2{line-height:1.8em;
-    margin-top: 5%;
+    margin-top: 20px;
+    
  }
 
 main{
@@ -108,7 +109,8 @@ main{
     flex-direction: column;
     margin: 50px 0px;}
 
-    main h2{font-size: 1.2rem;}
+    main h2{font-size: 1.2rem;
+        margin-top: 20px;}
 
     main p{margin: auto;}
 
