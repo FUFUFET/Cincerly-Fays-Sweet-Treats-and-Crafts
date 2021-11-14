@@ -131,7 +131,7 @@ main{
 .order{
 /* justify-self: center; */
 margin: auto;
-margin-bottom:17%;}
+margin-bottom:15%;}
 
 
     
@@ -214,7 +214,8 @@ margin-bottom:17%;}
 
 main{margin: 20px 0px;} 
 
-
+.order{
+    margin-bottom:20%;}
 
 footer h2{font-size: 1.2rem;
 text-align: center;}
